@@ -1,6 +1,7 @@
 An interactive Exploratory Data Analysis (EDA) project on Electric Vehicles using Python, Pandas, Seaborn, Matplotlib, and Plotly.
 
-![Project Banner](![Uploading car.jpeg…]())
+![Project Banner](![car](https://github.com/user-attachments/assets/ee73fed3-35a3-422d-b60b-cbebc634b9c0)
+)
 
 ## 📋 Table of Contents
 - [Overview](#overview)
