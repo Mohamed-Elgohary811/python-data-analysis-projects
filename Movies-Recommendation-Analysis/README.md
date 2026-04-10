@@ -71,3 +71,10 @@ The final model recommends movies that are both highly rated **and** popular.
 3. **Guardians of the Galaxy**
 4. **Deadpool**
 5. **The Dark Knight**
+
+
+## 📊 Sample Visualizations
+
+![Weighted Average Ranking](images/weighted_avg.png)
+![Popularity Based](images/popularity.png)
+![Hybrid Recommendation](images/hybrid_score.png)
