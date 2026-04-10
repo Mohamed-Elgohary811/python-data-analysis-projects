@@ -55,7 +55,7 @@ The final model recommends movies that are both highly rated **and** popular.
 4. **Hybrid Model** — Combined normalized weighted rating and popularity (50/50 weight)
 5. **Recommendation** — Top movies based on hybrid score
 
-## 📈 Key Insights
+#### Key Insights
 
 - **Interstellar** ranks #1 in the hybrid model due to its excellent balance of high rating and strong popularity.
 - **Minions** and **Guardians of the Galaxy** perform very well due to massive popularity.
