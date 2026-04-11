@@ -79,5 +79,5 @@ The final model recommends movies that are both highly rated **and** popular.
 
 
 #### Author
-> Your Name — [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+> Your Name — [GitHub]([https://github.com/your-username](https://github.com/Mohamed-Elgohary811)) | [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/feed/))
 
