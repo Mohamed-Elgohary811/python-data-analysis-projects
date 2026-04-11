@@ -51,7 +51,11 @@ The final model recommends movies that are both highly rated **and** popular.
 1. **Data Preparation** — Merged movies and credits datasets
 2. **Weighted Rating** — Used IMDB formula:  
    `WR = (v / (v + m)) * R + (m / (v + m)) * C`
+![Top 20 Highest-Rated Movies by Weighted Average Score](plots/weighted_rating.png)
+
 3. **Popularity Analysis** — Ranked movies by popularity score
+![Top 20 Most Popular Movies by Popularity Score](plots/popularity.png)
+
 4. **Hybrid Model** — Combined normalized weighted rating and popularity (50/50 weight)
 5. **Recommendation** — Top movies based on hybrid score
 
@@ -71,3 +75,10 @@ The final model recommends movies that are both highly rated **and** popular.
 3. **Guardians of the Galaxy**
 4. **Deadpool**
 5. **The Dark Knight**
+
+![Top 20 Movies by Combined Score Mix (Rating & Popularity)](plots/hybrid_score.png)
+
+
+#### Author
+> Your Name — [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+
