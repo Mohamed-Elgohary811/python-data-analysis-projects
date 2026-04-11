@@ -80,4 +80,3 @@ The final model recommends movies that are both highly rated **and** popular.
 
 #### Author
 > Mohamed Elgohary — [GitHub](https://github.com/Mohamed-Elgohary811) | [LinkedIn](https://www.linkedin.com/feed/)
-
