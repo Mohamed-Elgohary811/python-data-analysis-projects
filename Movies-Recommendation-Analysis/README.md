@@ -10,7 +10,6 @@ An intelligent **Movie Recommendation System** built using the TMDB 5000 dataset
 - [Methodology](#methodology)
 - [Key Insights](#key-insights)
 - [Results](#results)
-- [How to Run](#how-to-run)
 - [Author](#author)
 
 #### Overview
