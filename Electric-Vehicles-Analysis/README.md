@@ -10,7 +10,6 @@ An interactive Exploratory Data Analysis (EDA) project on Electric Vehicles usin
 - [Key Insights](#key-insights)
 - [Visualizations](#visualizations)
 - [Results](#results)
-- [How to Run](#how-to-run)
 - [Author](#author)
 
 #### Overview
@@ -65,3 +64,8 @@ This project performs a comprehensive analysis of Electric Vehicles (EVs) data, 
 - BEVs have significantly higher average electric range than PHEVs.
 - Clean Alternative Fuel Vehicle (CAFV) eligible vehicles tend to have better range.
 - The EV market is growing rapidly with newer models.
+
+
+
+#### Author
+> Mohamed Elgohary — [GitHub](https://github.com/Mohamed-Elgohary811) | [LinkedIn](https://www.linkedin.com/feed/)
