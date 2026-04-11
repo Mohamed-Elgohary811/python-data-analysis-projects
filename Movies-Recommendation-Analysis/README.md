@@ -51,10 +51,10 @@ The final model recommends movies that are both highly rated **and** popular.
 1. **Data Preparation** — Merged movies and credits datasets
 2. **Weighted Rating** — Used IMDB formula:  
    `WR = (v / (v + m)) * R + (m / (v + m)) * C`
-![Top 20 Highest-Rated Movies by Weighted Average Score](Top 20 Highest-Rated Movies by Weighted Average Score.png)
+![Top 20 Highest-Rated Movies by Weighted Average Score](weighted_rating.png)
 
 3. **Popularity Analysis** — Ranked movies by popularity score
-![Top 20 Most Popular Movies by Popularity Score](Top 20 Most Popular Movies by Popularity Score.png)
+![Top 20 Most Popular Movies by Popularity Score](popularity.png)
 
 4. **Hybrid Model** — Combined normalized weighted rating and popularity (50/50 weight)
 5. **Recommendation** — Top movies based on hybrid score
@@ -76,7 +76,7 @@ The final model recommends movies that are both highly rated **and** popular.
 4. **Deadpool**
 5. **The Dark Knight**
 
-![Top 20 Movies by Combined Score Mix (Rating & Popularity)](Top 20 Movies by Combined Score Mix (Rating + Popularity).png)
+![Top 20 Movies by Combined Score Mix (Rating & Popularity)](hybrid_score.png)
 
 
 #### Author
