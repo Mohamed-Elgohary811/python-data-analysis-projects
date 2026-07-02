@@ -49,9 +49,9 @@ The notebook (`project_file.ipynb`) is organized into the following sections:
 3. **Data Preprocessing** — checking data types, nulls, and detecting outliers using the IQR method
 
    <p align="center">
-     <img src="images/top_10_models.png" alt="Top 10 Mercedes Models" width="700"/>
+     <img src="top_10_models.png" alt="Top 10 Mercedes Models" width="700"/>
      <br/>
-     <img src="images/outliers_boxplot.png" alt="Box Plot of Numerical Features" width="700"/>
+     <img src="outliers_boxplot.png" alt="Box Plot of Numerical Features" width="700"/>
    </p>
 4. **Feature Engineering** — creating new derived features:
    - `car_age`: vehicle age relative to the current year
@@ -68,7 +68,7 @@ The notebook (`project_file.ipynb`) is organized into the following sections:
      <br/><br/>
      <img src="mileage_vs_price.png" alt="Mileage vs Price Scatter" width="700"/>
      <br/><br/>
-     <img src="imagesbest_value_bubble.png" alt="Best Value Bubble Chart" width="700"/>
+     <img src="best_value_bubble.png" alt="Best Value Bubble Chart" width="700"/>
      <br/><br/>
      <img src="dashboard.png" alt="Summary Dashboard" width="700"/>
    </p>
