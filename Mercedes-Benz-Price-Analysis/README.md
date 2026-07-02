@@ -1,4 +1,4 @@
-# 🚗 Mercedes-Benz Used Car Market Analysis
+# Mercedes-Benz Used Car Market Analysis
 
 An exploratory data analysis (EDA) project on the UK used-car market for Mercedes-Benz vehicles, aiming to uncover the key factors that drive pricing, depreciation, and value for money across different models.
 
@@ -64,13 +64,13 @@ The notebook (`project_file.ipynb`) is organized into the following sections:
    - A combined 4-panel interactive dashboard (price by model/fuel, mileage distribution, engine size vs. MPG, price by transmission)
 
    <p align="center">
-     <img src="images/price_vs_age.png" alt="Price vs Car Age" width="700"/>
+     <img src="price_vs_age.png" alt="Price vs Car Age" width="700"/>
      <br/><br/>
-     <img src="images/mileage_vs_price.png" alt="Mileage vs Price Scatter" width="700"/>
+     <img src="mileage_vs_price.png" alt="Mileage vs Price Scatter" width="700"/>
      <br/><br/>
-     <img src="images/best_value_bubble.png" alt="Best Value Bubble Chart" width="700"/>
+     <img src="imagesbest_value_bubble.png" alt="Best Value Bubble Chart" width="700"/>
      <br/><br/>
-     <img src="images/dashboard.png" alt="Summary Dashboard" width="700"/>
+     <img src="dashboard.png" alt="Summary Dashboard" width="700"/>
    </p>
 6. **Results & Conclusion** — summary of key market insights
 
