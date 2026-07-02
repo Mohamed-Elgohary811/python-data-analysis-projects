@@ -109,9 +109,8 @@ The notebook (`project_file.ipynb`) is organized into the following sections:
 
 ---
 
-## 📄 License
-
-This project is for educational and portfolio purposes.
+#### Author
+> Mohamed Elgohary — [GitHub](https://github.com/Mohamed-Elgohary811) | [LinkedIn](https://www.linkedin.com/feed/)
 
 ---
 
