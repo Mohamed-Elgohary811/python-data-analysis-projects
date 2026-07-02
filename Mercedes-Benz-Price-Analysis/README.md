@@ -1,4 +1,4 @@
-# Mercedes-Benz Used Car Market Analysis
+# 🚗 Mercedes-Benz Used Car Market Analysis
 
 An exploratory data analysis (EDA) project on the UK used-car market for Mercedes-Benz vehicles, aiming to uncover the key factors that drive pricing, depreciation, and value for money across different models.
 
@@ -47,6 +47,12 @@ The notebook (`project_file.ipynb`) is organized into the following sections:
 1. **Importing Libraries** — `numpy`, `pandas`, `matplotlib`, `seaborn`, `plotly`
 2. **Loading Dataset** — reading and previewing the raw data
 3. **Data Preprocessing** — checking data types, nulls, and detecting outliers using the IQR method
+
+   <p align="center">
+     <img src="images/top_10_models.png" alt="Top 10 Mercedes Models" width="700"/>
+     <br/>
+     <img src="images/outliers_boxplot.png" alt="Box Plot of Numerical Features" width="700"/>
+   </p>
 4. **Feature Engineering** — creating new derived features:
    - `car_age`: vehicle age relative to the current year
    - `price_per_mile`: price normalized by mileage
@@ -56,6 +62,16 @@ The notebook (`project_file.ipynb`) is organized into the following sections:
    - Mileage vs. Price scatter plots colored by age
    - "Best Value" bubble chart (price vs. mileage)
    - A combined 4-panel interactive dashboard (price by model/fuel, mileage distribution, engine size vs. MPG, price by transmission)
+
+   <p align="center">
+     <img src="images/price_vs_age.png" alt="Price vs Car Age" width="700"/>
+     <br/><br/>
+     <img src="images/mileage_vs_price.png" alt="Mileage vs Price Scatter" width="700"/>
+     <br/><br/>
+     <img src="images/best_value_bubble.png" alt="Best Value Bubble Chart" width="700"/>
+     <br/><br/>
+     <img src="images/dashboard.png" alt="Summary Dashboard" width="700"/>
+   </p>
 6. **Results & Conclusion** — summary of key market insights
 
 ---
@@ -100,4 +116,3 @@ This project is for educational and portfolio purposes.
 ---
 
 ### 🖤 Thanks for checking out this project!
-
